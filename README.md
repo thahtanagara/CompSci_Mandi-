@@ -21,8 +21,8 @@ Program ini adalah proyek sederhana dalam Java yang digunakan untuk memeriksa ap
 1. **Clone repositori ini**:
 
     ```bash
-    git clone https://github.com/username/cek-kebiasaan-mandi-mahasiswa.git
-    cd cek-kebiasaan-mandi-mahasiswa
+    [git clone https://github.com/username/cek-kebiasaan-mandi-mahasiswa.git
+    cd cek-kebiasaan-mandi-mahasiswa](https://github.com/thahtanagara/CompSci_Mandi-.git)
     ```
 
 2. **Jalankan program** di terminal atau IDE Java pilihan Anda.
